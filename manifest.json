@@ -1,0 +1,21 @@
+{
+    "name": "Indian Christian Assembly Ministries",
+    "short_name": "ICA Ministries",
+    "description": "A community rooted in faith, love, and service",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2a2a2a",
+    "theme_color": "#e8a020",
+    "icons": [
+      {
+        "src": "images/members.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "images/members.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg"
+      }
+    ]
+  }
